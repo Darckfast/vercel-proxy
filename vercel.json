@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/api/urban/:match*",
-      "destination": "https://urban-dict-g7d1.vercel.app/:match*"
+      "source": "/api/urban",
+      "destination": "https://urban-dict-g7d1.vercel.app/api/urban"
     }
   ]
 }

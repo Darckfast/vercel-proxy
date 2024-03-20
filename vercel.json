@@ -1,8 +1,12 @@
 {
   "rewrites": [
     {
-      "source": "/api/urban",
-      "destination": "https://urban-dict-g7d1.vercel.app/api/urban"
+        "source": "/api/urban",
+        "destination": "https://urban-dict-g7d1.vercel.app/api/urban"
+    },
+    {
+        "source":"/api/advice",
+        "destination":"https://get-advice-295htgal2-darckfast.vercel.app/api/advice"
     }
   ]
 }

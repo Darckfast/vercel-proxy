@@ -6,7 +6,7 @@
     },
     {
         "source":"/api/advice",
-        "destination":"https://get-advice-295htgal2-darckfast.vercel.app/api/advice"
+        "destination":"https://get-advice-ebon.vercel.app/api/advice"
     }
   ]
 }

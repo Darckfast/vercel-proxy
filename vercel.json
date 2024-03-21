@@ -7,6 +7,10 @@
     {
         "source":"/api/advice",
         "destination":"https://get-advice-ebon.vercel.app/api/advice"
+    },
+    {
+        "source":"/",
+        "destination":"https://home-page-one-vert.vercel.app/"
     }
   ]
 }
